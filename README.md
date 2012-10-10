@@ -4,8 +4,8 @@ require-ts is a [Require.js](http://requirejs.org) plugin that allows you to req
 
 ## Download
 
-[require-ts](http://raw.github.com/iammerrick/require-ts/master/build/ts.js)
-[require-ts minified](http://raw.github.com/iammerrick/require-ts/master/build/ts.min.js)
+- [ts.js](http://raw.github.com/iammerrick/require-ts/master/build/ts.js)
+- [ts.min.js](http://raw.github.com/iammerrick/require-ts/master/build/ts.min.js)
 
 ## Usage
 
@@ -44,8 +44,8 @@ This project leverages git submodules to embed the TypeScript project. This allo
 
 ## Author
 
-Name: Merrick Christensen
-Twitter: [@iammerrick](http://twitter.com/iammerrick)
+- Name: Merrick Christensen
+- Twitter: [@iammerrick](http://twitter.com/iammerrick)
 
 ## Credits
 
