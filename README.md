@@ -42,6 +42,11 @@ requirejs.config({
 
 This project leverages git submodules to embed the TypeScript project. This allows us to automate the build for a new version of the plugin as the TypeScript project moves forward. We leverage [grunt](http://gruntjs.com) and [rigger](https://github.com/buildjs/rigger) to build the plugin.
 
+## Author
+
+Name: Merrick Christensen
+Twitter: [@iammerrick](http://twitter.com/iammerrick)
+
 ## Credits
 
 The text loading mechanisms is extracted from [require-cs](https://github.com/jrburke/require-cs), the work done by [James Burke](http://jrburke.com/).
