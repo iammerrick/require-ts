@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    
+    <script type="text/javascript" charset="utf-8" src="require.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      requirejs.config({
+        ts: {
+          declarations: [
+            'text!../vendor/typescript/bin/lib.d.ts'
+          ]
+        }
+      });
+      require(['../build/ts!../vendor/typescript/samples/greeter/greeter']);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
