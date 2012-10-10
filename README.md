@@ -5,6 +5,7 @@ require-ts is a [Require.js](http://requirejs.org) plugin that allows you to req
 ## Download
 
 [require-ts](http://raw.github.com/iammerrick/require-ts/master/build/ts.js)
+[require-ts minified](http://raw.github.com/iammerrick/require-ts/master/build/ts.min.js)
 
 ## Usage
 

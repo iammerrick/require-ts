@@ -7,9 +7,15 @@ module.exports = function(grunt) {
         src: ['src/wrapper.js'],
         dest: 'build/ts.js'
       }
+    },
+    min: {
+      dist: {
+        src: ['build/ts.js'],
+        dest: 'build/ts.min.js'
+      }
     }
   });
   
-  grunt.registerTask('build', 'rig:build');
+  grunt.registerTask('build', 'rig:build min');
   
 };
